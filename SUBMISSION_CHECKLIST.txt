@@ -1,0 +1,11 @@
+Submission checklist
+1. Upload this project folder to a GitHub repository.
+2. Run the script in Linux/WSL using the README instructions.
+3. Take screenshots of:
+   - the command used to run the script,
+   - the created backup archive (ls -lh backups),
+   - the log output (cat logs/backup_audit.log),
+   - one invalid-folder test if possible.
+4. Add the GitHub repository URL to the Mentee Tracker submission.
+
+The script and instructions are prepared, but execution screenshots and a GitHub URL must come from your own run/account.
